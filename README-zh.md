@@ -1,8 +1,10 @@
-# OIÉúÑÄ
+[English](https://github.com/JeremyHe1209/OIers-Lives/blob/main/README.md) | [ä¸­æ–‡](https://github.com/JeremyHe1209/OIers-Lives/blob/main/README-zh.md)
 
-Ò»¸ö¹ØÓÚÒ»ÈºOIerµÄÓÎÏ·¡£
+# OIç”Ÿæ¶¯
 
-**ÈçºÎÔËĞĞ£¿**
+ä¸€ä¸ªå…³äºä¸€ç¾¤OIerçš„æ¸¸æˆã€‚
+
+**å¦‚ä½•è¿è¡Œï¼Ÿ**
 
 ```cmd
 python main.py
