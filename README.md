@@ -1,4 +1,4 @@
-[English](https://github.com/JeremyHe1209/OIers-Lives/main/README.md) | [中文](https://github.com/JeremyHe1209/OIers-Lives/main/README-zh.md)
+[English](https://github.com/JeremyHe1209/OIers-Lives/blob/main/README.md) | [中文](https://github.com/JeremyHe1209/OIers-Lives/blob/main/README-zh.md)
 
 # OIers' Lives
 
