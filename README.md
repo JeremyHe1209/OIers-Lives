@@ -10,7 +10,7 @@ A Game About OIers' Lives.
 python main.py
 ```
 
-**Star it, please! ^_^**
+**Star it, please! Thanks~ ^_^**
 
 [![Stargazers over time](https://starchart.cc/JeremyHe1209/OIers-Lives.svg?variant=dark)](https://starchart.cc/JeremyHe1209/OIers-Lives)
 
