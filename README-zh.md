@@ -10,4 +10,8 @@
 python main.py
 ```
 
+**请多多Star！谢谢~ ^_^**
+
+[![Stargazers over time](https://starchart.cc/JeremyHe1209/OIers-Lives.svg?variant=dark)](https://starchart.cc/JeremyHe1209/OIers-Lives)
+
 _By [JDScript0117](https://www.luogu.com/user/910593) & [heyicong](https://www.luogu.com/user/725640)._
