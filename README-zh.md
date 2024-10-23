@@ -4,14 +4,12 @@
 
 一个关于一群OIer的游戏。
 
+事实上，这并不是一个真正的游戏，只是拿来练练手。
+
 **如何运行？**
 
 ```cmd
 python main.py
 ```
-
-**请多多Star！谢谢~ ^_^**
-
-[![Stargazers over time](https://starchart.cc/JeremyHe1209/OIers-Lives.svg?variant=dark)](https://starchart.cc/JeremyHe1209/OIers-Lives)
 
 _By [JDScript0117](https://www.luogu.com/user/910593) & [heyicong](https://www.luogu.com/user/725640)._
