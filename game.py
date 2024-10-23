@@ -44,7 +44,7 @@ class Game:
                 HealthEffectedEventHappen(figure, self.healthEffectedEvents[ind])
             if figure.health <= 0:
                 self.figuresCount -= 1
-                continue;
+                continue
     def passAYear(self, year) -> None:
         if year < 2019:
             self.addEvent(GlobalEvent("NOIP-J/S{year} The First Test".format(year = year), "NOIP-J/S{year} The First Test is coming!".format(year = year), 1, year, 9))
@@ -74,7 +74,7 @@ class Game:
                 self.stop = True
                 return
             system("cls")
-        for i in range(1):
+        for i in range(12):
             if self.figuresCount <= 0:
                 return
             month += 1
